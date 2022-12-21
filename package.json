@@ -1,0 +1,15 @@
+{
+    "name": "@bettersource/shared",
+    "version": "1.2.0",
+    "description": "Shared types used as a installable package ",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js",
+        "build": "tsc"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.9.4"
+    }
+}
